@@ -54,36 +54,39 @@ body {
       background-size: cover;
       margin: 50px 50px 50px 50px;
 }
+
 .fifth-title {
       padding-top: 70px;
       margin-bottom: 16px;
       font-size: 40px;
       font-weight: 600;
 }
+
 .fifth-discription {
       color: #272727;
       opacity: 0.6;
       margin-bottom: 48px;
 }
+
 input {
-     padding: 20px 0px 20px 20px;
-     width: 300px;
-     border-radius: 8px;
-     border: none;
-     margin-right: 20px;
-     height: 25px;
-  }
-  
-  .input-unit {
+      padding: 20px 0px 20px 20px;
+      width: 300px;
+      border-radius: 8px;
+      border: none;
+      margin-right: 20px;
+      height: 25px;
+}
+
+.input-unit {
       align-items: center;
-     padding-bottom: 70px;
-  }
+      padding-bottom: 70px;
+}
 
 /* main styles end */
 /* footer style */
 footer {
       text-align: center;
-     background-color: #111010;
+      background-color: #111010;
 }
 
 .footer-heading {
@@ -96,10 +99,12 @@ footer {
 .footer-span {
       color: white;
 }
+
 .footer-title {
       color: rgba(255, 255, 255, 0.90);
       margin-bottom: 32px;
 }
+
 .footer-discription {
       color: rgba(255, 255, 255, 0.40);
       padding-bottom: 100px;
