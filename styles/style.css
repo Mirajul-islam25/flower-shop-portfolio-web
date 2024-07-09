@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+      font-family: 'Lato', sans-serif;
+}
+
+/* header style */
+.header {
+      background: rgba(229, 84, 115, 0.10);
+      margin-bottom: 100px;
+
+}
+
+.banner {
+      display: flex;
+      justify-content: space-between;
+      padding: 50px 240px 0px 240px;
+}
+
+.banner-content {
+      padding-right: 90px;
+}
+
+.banner-title {
+      color: #272727;
+      font-size: 40px;
+      font-weight: bold;
+      padding-bottom: 10px;
+      margin-bottom: 0px;
+}
+
+.banner-description {
+
+      color: rgba(39, 39, 39, 0.60);
+      font-size: 18px;
+      font-weight: 400;
+      padding-bottom: 32px;
+}
+
+.btn-container {
+      border: 0px;
+      color: white;
+      background-color: #E55473;
+      border-radius: 8px;
+      padding: 20px 43px;
+      font-size: 20px;
+      font-weight: 700;
+}
+
+/* main styles */
+.banner-fifth {
+      text-align: center;
+      background-image: url(../images/Rectangle\ 9.png);
+      background-size: cover;
+      margin: 50px 50px 50px 50px;
+}
+.fifth-title {
+      padding-top: 70px;
+      margin-bottom: 16px;
+      font-size: 40px;
+      font-weight: 600;
+}
+.fifth-discription {
+      color: #272727;
+      opacity: 0.6;
+      margin-bottom: 48px;
+}
+input {
+     padding: 20px 0px 20px 20px;
+     width: 300px;
+     border-radius: 8px;
+     border: none;
+     margin-right: 20px;
+     height: 25px;
+  }
+  
+  .input-unit {
+      align-items: center;
+     padding-bottom: 70px;
+  }
+
+/* main styles end */
+/* footer style */
+footer {
+      text-align: center;
+     background-color: #111010;
+}
+
+.footer-heading {
+      color: #E55473;
+      padding-top: 100px;
+      margin-bottom: 25px;
+      font-size: 48px;
+}
+
+.footer-span {
+      color: white;
+}
+.footer-title {
+      color: rgba(255, 255, 255, 0.90);
+      margin-bottom: 32px;
+}
+.footer-discription {
+      color: rgba(255, 255, 255, 0.40);
+      padding-bottom: 100px;
+}
